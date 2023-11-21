@@ -1,5 +1,12 @@
 <script>
-    import Header from "../components/Header.svelte";
+  import Header from "../components/Header.svelte";
 </script>
 
-<Header />
+<div class="p-4">
+  <Header />
+  <div class="flex">
+    <div>
+      <h1>The ultimate reputation betting platform</h1>
+    </div>
+  </div>
+</div>
