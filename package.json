@@ -9,15 +9,15 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "^2.0.0",
-    "@sveltejs/kit": "^1.27.4",
-    "autoprefixer": "^10.4.16",
+    "@sveltejs/adapter-auto": "^3.1.1",
+    "@sveltejs/kit": "^2.5.0",
+    "autoprefixer": "^10.4.17",
     "eslint": "^8.56.0",
     "eslint-plugin-svelte": "^2.35.1",
     "postcss": "^8.4.33",
-    "svelte": "^4.2.8",
+    "svelte": "^4.2.9",
     "tailwindcss": "^3.4.1",
-    "vite": "^5.0.11"
+    "vite": "^5.0.12"
   },
   "type": "module",
   "dependencies": {
